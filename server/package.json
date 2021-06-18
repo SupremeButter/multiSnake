@@ -4,5 +4,6 @@
 {
   "dependencies": {
     "socket.io": "^2.3.0"
+      "cors": "^2.8.5"
   }
 }
